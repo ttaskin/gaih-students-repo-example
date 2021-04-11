@@ -9,8 +9,7 @@
 **Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
 
 ## Project Name
-Description of your project.
-
+10 soruluk bilgi yarışması
 ## Requirements
 ```
 Some python libraries
